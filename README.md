@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, I'm Alejandro Saavedra</h1>
 <h3 align="center">A passionate Full Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on **ashcomics**
+- 🔭 I’m currently working on **ashcomics**, A Comic site for a aspriring Manga artist!
 
 - 👨‍💻 My portfolio with some of my work available at [alejandrosaavedradev.com](https://alejandrosaavedradev.com)
 
